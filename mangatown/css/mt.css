@@ -1,0 +1,298 @@
+/* CSS Document */
+
+body{
+background-image:url(../images/nen.jpg);	
+}
+.tong {
+	width: 1602px;
+	height: auto;
+	margin:0 auto;
+	
+	
+}
+.dau {
+	width: 1604px;
+	height: 170px;	
+	
+}
+
+.banner {
+	width: 1600px;
+	height: 135px;
+	float:left;
+	background:url(../images/banner%20final.jpg);	
+}
+.logo {
+	width: 968px;
+	height: 125px;	
+	float:left;
+	
+}
+.login {
+	width: 626px;
+	height: 125px;
+	float:left;	
+	
+}
+
+#menu {
+	width: 1600px;
+	height: 55px;
+}
+
+#menu ul {
+  background-image:url(../images/menu4.jpg);
+  list-style-type: none;
+  text-align: center;
+}
+#menu li {
+  color: #f1f1f1;
+  float: left;
+  font-size:18px;
+  margin-left: 80px;
+  padding-left:-70px;
+  width: 150px;
+  height: 40px;
+  line-height: 40px;
+ 
+}
+#menu ul {
+  
+  list-style-type: none;
+  overflow: hidden;
+  width: 1560px;
+}
+#menu a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  
+		font-size:20px;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#menu a:hover {
+  background: #F1F1F1;
+  color: #333;
+}
+
+
+
+.giua {
+	width: 1604px;
+	height: 1560px;	
+	
+	background-image:url(../images/nen.jpg);
+	text-align:center;
+}
+
+.noidung {
+	width: 1290px;
+	height: auto;
+	
+	text-align:center;
+	margin-left: 160px;
+	
+	
+
+}
+.trai {
+	width: 995px;
+	height: 1560px;	
+	
+	float:left;
+	background:#FFF;
+}
+.gioithieu {
+	width: 995px;
+	height: 480px;	
+	
+}
+.truyenhot {
+	width: 995px;
+	height: 200px;	
+}
+
+.hot1{
+	float:left;
+	padding-left:2px;
+	margin-left:2px;	
+}
+
+.capnhat{
+	width: 995px;
+	height: 1080px;
+	
+	}
+	.capnhap1{
+		width: 994px;	
+		height: 49px;
+		border:#999 solid 1px;
+		padding-top:10px;
+		
+		
+	}
+	.name{
+		width: 200px;
+		height: 49px;	
+		float:left;
+		padding-left:10px;
+		padding-top:3px;
+		color:#039d98;
+		font-size:20px;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+		text-align:left;
+		
+		
+	}
+	.sochuong{
+		width: 200px;
+		height: 49px;
+		float:left;	
+		color:#333;
+		margin-left:200px;
+		
+		padding-left:300px;
+		font-size:20px;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+		
+	}
+.hinh {
+	float:left;
+	margin-left: 10px;
+	margin-top:5px;
+		
+}
+.text {
+	
+	float:left;
+	text-align:left;
+	margin-left:10px;
+	color:#039d98;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;	
+}
+
+
+
+.phai {
+	width: 278px;
+	height: 1560px;
+	margin-left: 10px;
+	background-color:#FFF;
+	border:#666 solid 1px;
+	float:left;	
+}
+.fb {
+	float:left;
+	margin-top:20px;
+	padding-top:10px;
+	margin-left:10px;	
+}
+
+.sc {
+	float:left;
+	margin-top:20px;
+	padding-top:10px;	
+	margin-left:10px;	
+}
+
+
+
+
+
+
+
+
+.cuoi {
+	width: 1595px;
+	height:200px;
+	
+}
+#register {
+	text-align:center;
+	padding: 20px;
+	color:#000;
+}
+
+
+		
+
+#reg-detail li{
+		display:block;
+		font-size:20px;
+		color:#039d98;
+		text-align:left;
+		padding:4px;
+		
+		
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;	
+		}
+		
+		.kieudoc {
+
+	float:left;
+	margin-top:10px;
+	color:#000;padding-left:10px;
+}
+
+
+		
+
+.kieudoc-form li{
+		display:block;
+		font-size:14px;
+		color:#039d98;
+		
+		
+		
+		
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;	
+		}
+		
+		.name1 {
+			font-size:36px;
+			color:#FFF;
+			margin-left:-400px;
+			font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;		
+		}
+		
+		.chuong {
+
+	float:left;
+	margin-top:10px;
+	color:#000;
+	padding-left:20px;
+}
+
+
+		
+
+.chuong-form li{
+		display:block;
+		font-size:14px;
+		color:#039d98;
+		
+		
+		
+		
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;	
+		}
+		
+		.next{
+			margin-top:10px;
+		float:left;	
+		padding-left:20px;
+		}
+		.next2{
+			margin-top:10px;
+		float:left;
+		padding-left:20px;	
+		}
+		
+		.menu1{ 
+			padding-left:20px;
+			margin-left:400px;
+			
+		}
+		.img {
+			padding:5px;	
+		}
